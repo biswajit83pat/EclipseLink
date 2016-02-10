@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="lib" path="mongo-java-driver-2.13.0-rc0.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/EclipseLinkLib">
+		<attributes>
+			<attribute name="owner.project.facets" value="jpt.jpa"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mysqlConnector">
+		<attributes>
+			<attribute name="owner.project.facets" value="jpt.jpa"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_65"/>
+	<classpathentry kind="lib" path="javax.resource.jar"/>
+	<classpathentry kind="lib" path="bson-3.0.1.jar"/>
+	<classpathentry kind="lib" path="mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="mongodb-driver-async-3.0.4.jar"/>
+	<classpathentry kind="lib" path="mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
